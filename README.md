@@ -11,7 +11,8 @@ The goal of the project is to demonstrate how a product dimension can be maintai
 ## 🏗️ Architecture
 
 ```
-<img width="1408" height="768" alt="Gemini_Generated_Image_vfpzajvfpzajvfpz" src="https://github.com/user-attachments/assets/325ca36d-be61-4a22-9418-e547a4f2e66d" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_vfpzajvfpzajvfpz" src="https://github.com/user-attachments/assets/4dbcb6ae-ae87-445d-b975-ac93265c803c" />
+
 
 ```
 
